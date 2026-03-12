@@ -1,8 +1,11 @@
-# -Sales-Analysis-Dashboard-Excel-VBA
+# Sales Analysis Dashboard (Excel + VBA)
+
+## Dashboard Preview
+![Sales Dashboard](Sales%20Analysis%20Dashboard.png)
 
 📌 Project Overview
 
-* The Sales Analysis Dashboard is an interactive Excel-based reporting solution designed to analyze and monitor sales performance across multiple cities and sales executives. The dashboard provides dynamic insights into total sales, target achievement percentage, and performance trends using advanced Excel features and VBA automation.
+The Sales Analysis Dashboard is an interactive Excel-based reporting solution designed to analyze and monitor sales performance across multiple cities and sales executives. It provides dynamic insights into total sales, target achievement percentage, and performance trends using advanced Excel features and VBA automation.
 
 -- This project focuses on improving reporting efficiency, reducing manual effort, and enabling data-driven decision-making.
 
